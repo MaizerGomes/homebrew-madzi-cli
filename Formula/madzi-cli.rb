@@ -2,7 +2,7 @@ class MadziCli < Formula
   desc "CLI tool to manage Madzi postpaid water services"
   homepage "https://github.com/MaizerGomes/madzi-cli"
   url "https://github.com/MaizerGomes/madzi-cli/releases/download/v0.1.0/madzi-cli-darwin-amd64"
-  sha256 "f890422bffc9bcd807bc1afc788c61888a15e17bfc44bc2e3d29960b6da80b81"
+  sha256 "dfa4007d01fc30b790737fe1e02d6ef1ac82695f0ec2cb2b3d7e720bc6658676"
   license "MIT"
   version "0.1.0"
 
